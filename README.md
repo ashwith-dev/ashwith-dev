@@ -26,8 +26,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwith-dev&show_icons=true&theme=radical" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwith-dev&theme=radical" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwith-dev&layout=compact&theme=radical" />
